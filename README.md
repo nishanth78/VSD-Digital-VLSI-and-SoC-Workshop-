@@ -20,3 +20,15 @@ In the image below, we can see that all the required files (openlane, pdks, etc.
 Number of D-Flip flops are mentioned as "sky_130_fd_sc_hd_dfxtp_2" = 1613 </p>
 Total Number of cells = 14876 </p>
 Flop ratio =  0.1084 (10.84%) </p>
+# Day-2
+### Floor Planning
+Here, we need to take care of:
+* Dimensions of Core and Die
+* Location of pre-placed cells
+* Decoupling capacitors: are used to mitigate the disadvantage of having a large physical distance between the power supply and the circuits.
+* Power Planning
+* Pin placement
+If we see the readme file in the configuration directory we will see different switches.
+![A1](https://github.com/nishanth78/VSD-Digital-VLSI-and-SoC-Workshop-/assets/97909927/79e81d04-f485-4291-983e-b83319c9395d)
+![A2](https://github.com/nishanth78/VSD-Digital-VLSI-and-SoC-Workshop-/assets/97909927/6b1b354f-d321-4c95-8f6e-496e4048e9e3)
+
