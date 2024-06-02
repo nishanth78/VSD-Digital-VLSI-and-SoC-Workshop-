@@ -41,3 +41,7 @@ After the command run_floorplan if the floorplanning is successful, which can be
 #### Complete Floorplan 
 ![A5](https://github.com/nishanth78/VSD-Digital-VLSI-and-SoC-Workshop-/assets/97909927/c8eabc59-7273-4650-9870-48ecc5f1958f)
 
+#### Placement
+* Command: run_placement
+![B1](https://github.com/nishanth78/VSD-Digital-VLSI-and-SoC-Workshop-/assets/97909927/2314f0ad-6099-4f7f-899e-3023fb84b9fa)
+![B2](https://github.com/nishanth78/VSD-Digital-VLSI-and-SoC-Workshop-/assets/97909927/6a96d8f1-365c-49ba-9903-0c8e71da6e55)
