@@ -32,3 +32,12 @@ If we see the readme file in the configuration directory we will see different s
 ![A1](https://github.com/nishanth78/VSD-Digital-VLSI-and-SoC-Workshop-/assets/97909927/79e81d04-f485-4291-983e-b83319c9395d)
 ![A2](https://github.com/nishanth78/VSD-Digital-VLSI-and-SoC-Workshop-/assets/97909927/6b1b354f-d321-4c95-8f6e-496e4048e9e3)
 
+In the floorplan.tcl file, all the switches are assigned with some default values(shown below), which can be changed upon requirement.
+![A3](https://github.com/nishanth78/VSD-Digital-VLSI-and-SoC-Workshop-/assets/97909927/93b5480b-19b5-43a6-b167-9248355c4a2a)
+
+After the command run_floorplan if the floorplanning is successful, which can be seen below.
+![A4](https://github.com/nishanth78/VSD-Digital-VLSI-and-SoC-Workshop-/assets/97909927/543ca824-4f89-4ddf-814d-5a4ab4bef68c)
+
+#### Complete Floorplan 
+![A5](https://github.com/nishanth78/VSD-Digital-VLSI-and-SoC-Workshop-/assets/97909927/c8eabc59-7273-4650-9870-48ecc5f1958f)
+
