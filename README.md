@@ -45,3 +45,25 @@ After the command run_floorplan if the floorplanning is successful, which can be
 * Command: run_placement
 ![B1](https://github.com/nishanth78/VSD-Digital-VLSI-and-SoC-Workshop-/assets/97909927/2314f0ad-6099-4f7f-899e-3023fb84b9fa)
 ![B2](https://github.com/nishanth78/VSD-Digital-VLSI-and-SoC-Workshop-/assets/97909927/6a96d8f1-365c-49ba-9903-0c8e71da6e55)
+
+# DAY-3
+#### CMOS Layout extraction and spice simulation
+Gitclone the VSDSTD cell design and open the layout using magic tool </p>
+![C1](https://github.com/nishanth78/VSD-Digital-VLSI-and-SoC-Workshop-/assets/97909927/3cee6dc7-cab5-4be9-8f01-effd7653b342)
+![C2](https://github.com/nishanth78/VSD-Digital-VLSI-and-SoC-Workshop-/assets/97909927/286f0ddd-a73a-4aad-a22d-e295a12487f0)
+
+Now with command: magic -T sky130A.tech sky130_inv.mag </p>
+we can see the layout
+![C3](https://github.com/nishanth78/VSD-Digital-VLSI-and-SoC-Workshop-/assets/97909927/ad8c309a-07e1-4358-ae66-a565447375eb)
+
+* Extracting
+
+We can see the new file(sky130_inv.ext) in the below image
+
+Convert ext to spice </p>
+After giving the below commands
+
+We can see the new .spice file created in below image
+
+
+
