@@ -57,13 +57,17 @@ we can see the layout
 ![C3](https://github.com/nishanth78/VSD-Digital-VLSI-and-SoC-Workshop-/assets/97909927/ad8c309a-07e1-4358-ae66-a565447375eb)
 
 * Extracting
+![E1](https://github.com/nishanth78/VSD-Digital-VLSI-and-SoC-Workshop-/assets/97909927/7fda4c0f-cf83-40f4-b5bd-fcb7371775bc)
 
 We can see the new file(sky130_inv.ext) in the below image
+![E2](https://github.com/nishanth78/VSD-Digital-VLSI-and-SoC-Workshop-/assets/97909927/46657664-6714-4f88-be34-88e4800f32b9)
 
 Convert ext to spice </p>
 After giving the below commands
+![E3](https://github.com/nishanth78/VSD-Digital-VLSI-and-SoC-Workshop-/assets/97909927/8a972e6b-180f-4963-b17a-d29a0b466bf0)
 
 We can see the new .spice file created in below image
+![E4](https://github.com/nishanth78/VSD-Digital-VLSI-and-SoC-Workshop-/assets/97909927/3cb9b920-26c4-4b63-aea9-240cf62d9be2)
 
 
 
